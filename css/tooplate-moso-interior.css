@@ -23,8 +23,8 @@ https://www.tooplate.com/view/2133-moso-interior
   --twitter-color:                #1da1f2;
   --facebook-color:               #1877f2;
   --instagram-color:              #c13584;
-  --pinterest-color:              #e60023;
-  --whatsapp-color:               #128c7e;
+  --pinterest-color:              #0077e6;
+  --whatsapp-color:               #121413;
 
   --body-font-family:             'League Spartan', sans-serif;
 
@@ -578,6 +578,12 @@ strong {
   width: 350px;
   height: 350px;
   object-fit: cover;
+}
+
+.about-poster {
+  display: inline-block;
+  width: 400px;
+  height: 566px;
 }
 
 .about-image-small {
