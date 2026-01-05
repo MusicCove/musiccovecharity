@@ -584,6 +584,7 @@ strong {
   display: inline-block;
   width: 400px;
   height: 566px;
+  border-radius: 22px; /* Adjust the pixel value for desired roundness */
 }
 
 .about-image-small {

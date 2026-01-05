@@ -5,9 +5,11 @@
 
     // HERO SLIDE
     $('.hero-slide').backstretch([
-      "images/slideshow/MusicCove1.jpg", 
-      "images/slideshow/MusicCove3.webp",
-      "images/slideshow/MusicCove3.jpeg"
+      "images/slideshow/2025 Group Photo.JPG",
+      "images/slideshow/UCC String Quartet.jpeg",
+      "images/slideshow/Ethan Wong Performing.JPG", 
+      "images/slideshow/image2.jpg",
+      "images/slideshow/image3.jpg"
     ],  {duration: 2000, fade: 750});
 
     // REVIEWS CAROUSEL
